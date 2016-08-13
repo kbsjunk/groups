@@ -1,0 +1,11 @@
+{
+    "name": "inspheric/groups",
+    "require": {
+        "inspheric/support": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inspheric\\Groups\\": "src/"
+        }
+    }
+}
